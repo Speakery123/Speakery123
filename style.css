@@ -22,3 +22,8 @@ body {
 .warning {
     background-color: rgba(255, 0, 0, 0.349);
 }
+
+.end {
+    background-color: darkblue;
+    text-align: center;
+}
